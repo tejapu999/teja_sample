@@ -2,5 +2,5 @@ node {
 stage 'Build'
 echo 'Hello World'
 stage 'Test'
-echo 'Hello Veridic'
+echo 'Hello Veridic solutions'
 }
